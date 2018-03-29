@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1522329058 source:c:\users\leader\desktop\compostion\main.cpp
+	<iostream>
+	"birthday.h"
+	"people.h"
+
+1522329058 c:\users\leader\desktop\compostion\include\birthday.h
+
+1522329105 c:\users\leader\desktop\compostion\include\people.h
+	<string>
+	<iostream>
+	"birthday.h"
+
+1522329058 source:c:\users\leader\desktop\compostion\src\birthday.cpp
+	<iostream>
+	"birthday.h"
+
+1522329123 source:c:\users\leader\desktop\compostion\src\people.cpp
+	"people.h"
+	<iostream>
+	"birthday.h"
+
